@@ -1,7 +1,7 @@
-#include <iostream>//manipula��o de fluxo de dados padr?o do sistema 
-#include <cmath> //biblioteca para fun��o matem�cas
-#include <iomanip> //manipula��o da apresenta��o e do processamento de dados (nessse codigo para limitar o num de caas decimais)
-#include <locale> //biblioteca manipula��o de diversas conven�?es culturais do utilizador (nessse codigo para acentua��o)
+#include <iostream>//manipulacao de fluxo de dados padrao do sistema 
+#include <cmath> //biblioteca para funcaoo matematicas
+#include <iomanip> //manipulacaoo da apresentacao e do processamento de dados (nessse codigo para limitar o num de caas decimais)
+#include <locale> //biblioteca manipulacaoo de diversas convencoes culturais do utilizador (nessse codigo para acentuacao)
 using namespace std;
 
 int main(int argc, char *argv[]){
